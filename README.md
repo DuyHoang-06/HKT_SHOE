@@ -1,5 +1,5 @@
-# Ứng dụng quản lý cửa hàng bán giày (TVQK&NDN SHOE SHOP)
-(https://github.com/quangkhaiitnbk/tvqk-ndn_shoe_shop)
+# Ứng dụng quản lý cửa hàng bán giày (HKT SHOE SHOP)
+(#github)
 
 Ứng dụng giúp bạn quản lý việc nhập hàng/bán hàng của cửa hàng giày và dữ liệu được lưu trữ trong file xml (sanpham.xml và banhang.xml), ảnh sẽ được lưu ở thư mục pic.
 
@@ -12,7 +12,7 @@ Phát triển ứng dụng Quản lý shop giày, yêu cầu:
 
 ## Mô tả ứng dụng
 ### 1. Tên ứng dụng:
-Ứng dụng quản lý cửa hàng bán giày (TVQK&NDN SHOE SHOP)
+Ứng dụng quản lý cửa hàng bán giày (HKT SHOE SHOP)
 
 ### 2. Login
 - Tên đăng nhập: admin
